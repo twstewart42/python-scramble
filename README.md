@@ -1,4 +1,4 @@
-# python-stego
+# python-scramble
 
 This uses a very simply cipher list to translate each letter of a text file into a list of numbers, and is also able to de-scramable the cipher to translate back to English. If you understand that arrays start at 0, it is a very simply cipher, where the number at the index of the character matched within the array is used as the key for each character in the return file.
 
