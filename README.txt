@@ -1,0 +1,1 @@
+Try to crack the very simple code without using the descrambler - scramble.py. Have fun!
